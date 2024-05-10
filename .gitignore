@@ -1,0 +1,12 @@
+# Ignore logs and text files
+*.txt
+
+# Ignore database file
+*.db
+
+# Ignore URL data files
+urls.json
+urls.yaml
+
+# Ignore executable
+url-shortener
